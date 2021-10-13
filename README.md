@@ -28,9 +28,11 @@ Test files are included in the repo
 
 ## Questions 
 
-andrewbumNC
-AndrewBumgarnerNC@Gmail.com
-https://github.com/andrewbumNC/team-profile-generator
+* andrewbumNC
+
+* AndrewBumgarnerNC@Gmail.com
+
+* https://github.com/andrewbumNC/team-profile-generator
 
 
     
